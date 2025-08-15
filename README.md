@@ -85,16 +85,23 @@ PenguSnake/
 
 ## 🖼 Screenshots
 
-*(Add screenshots or gameplay GIFs here)*
 
-Example:
+First view:
 
-```
-![Gameplay Screenshot](images/gameplay.png)
-![Game Over Screen](images/gameover.png)
-```
+<img src="https://github.com/JAWAD645/Penguin-Eating-Noodles-Game/blob/743090008a6e7caaba4365553b0c1446cfc78bd9/Initial.png" alt="Preview" width="400">
 
 
+After eating:
+
+<img src="https://github.com/JAWAD645/Penguin-Eating-Noodles-Game/blob/743090008a6e7caaba4365553b0c1446cfc78bd9/After%20Eating.png" alt="Preview" width="400">
+
+Game over message:
+
+<img src="https://github.com/JAWAD645/Penguin-Eating-Noodles-Game/blob/743090008a6e7caaba4365553b0c1446cfc78bd9/Game%20over%20message.png" alt="Preview" width="400">
+
+Play this to get an overview:
+
+<img src="https://github.com/JAWAD645/Penguin-Eating-Noodles-Game/blob/743090008a6e7caaba4365553b0c1446cfc78bd9/Penguin_Eating_Noodles_Demo.gif" alt="Preview" width="400">
 
 ## 📥 Installation & Running
 
