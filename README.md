@@ -123,6 +123,7 @@ python main.py
 * Power-ups (bonus points, slow motion).
 * High score saving system.
 * Mobile-friendly touch controls.
+* Enhancing the game more and add more features.
 
 
 
